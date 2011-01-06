@@ -1,0 +1,3 @@
+this repo contains past progress on a xbox360-controller-and-webUI-controlled 2DOF airsoft turret.
+
+for useful things, check out joystick.py, a pure-python joystick library for Linux
