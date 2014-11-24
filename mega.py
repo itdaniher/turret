@@ -1,5 +1,5 @@
 #code by ITDaniher, written 2010-10-01 to 2010-10-25
-#manual runtime code for TehTurret - allows realtime control via xbox360 controller.
+#manual runtime code for TehTurret - allows soft realtime control via xbox360 controller.
 #code licensed under a Beerware license. http://en.wikipedia.org/wiki/Beerware
 
 import turret
